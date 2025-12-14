@@ -70,3 +70,7 @@ void writeTranspose(const char* filename, double* matrix, int n) {
 
     free(buf);
 }
+
+int tutorial_main(int argc, char* argv[]) {
+    return 0;
+}
